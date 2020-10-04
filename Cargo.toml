@@ -1,0 +1,11 @@
+[package]
+name = "mazes"
+version = "0.1.0"
+authors = ["Ben Elliott <benjam.elliott@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3"
+image = "0.23"
